@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/035/299/893/non_2x/beautiful-mesh-blue-color-gradient-background-vector.jpg);
+}
+.navbar{
+    border: 1px solid white;
+    color: white;
+    margin: auto;
+    margin-top: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+   width: 70%;
+   border-radius: 50px;
+   height: 50px;
+   list-style: none;
+}
+.list{
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
+button{
+    background-color: rgba(0, 0, 255, 0.349) ;
+    color: rgb(255, 253, 253);
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+}
+.smallnav{
+      border: 1px solid white;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+     margin: auto;
+    width: 35%;
+     height: 40px;
+      border-radius: 50px;
+      align-items: center;
+}
